@@ -1,0 +1,23 @@
+.container {
+    width: 280px;
+    background-color: aquamarine;
+    margin: auto;
+}
+
+.input-box {
+    height: 40px;
+    width: 100%;
+    font-size: 28px;
+}
+
+.tombol {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.tombol .item {
+    padding: 15px 20px;
+    background-color: cadetblue;
+    font-size: 28px;
+}
